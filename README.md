@@ -1,0 +1,2 @@
+- implementation of the algorithm for finding prime numbers based on modulo or sieve methods
+- parallelization of the above methods
